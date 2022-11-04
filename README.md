@@ -1,5 +1,5 @@
 <p align='center'> 
-  <b> Entire Start Wars Movie in Ascii </b> 
+  <b> Entire Star Wars Movie in Ascii </b> 
 </p>
 
 
